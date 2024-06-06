@@ -1,0 +1,7 @@
+Py Image Search
+https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
+https://pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform-example/
+
+
+YouTube
+https://youtu.be/yRer1GC2298?si=PLeyZ_64mQBWMmg9
